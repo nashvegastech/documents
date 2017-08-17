@@ -19,6 +19,12 @@ Provide a place for tech minded individuals to chat and carry on conversations t
   - getting started
   - implementing X technology
 - General tech discussions
+- different platforms
+  - web-based
+  - slack (nashvegastech.slack.com)
+  - facebook (https://www.facebook.com/nashvegastech/)
+  - gitter (https://gitter.im/nashvegastech)
+  - need to pick one :)
 
 ## Wide bredth of topics
 Nashvegas Tech is intended to provide a platform for all manner of tech related topics:
